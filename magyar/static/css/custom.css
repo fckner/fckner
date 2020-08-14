@@ -1,0 +1,16 @@
+table {
+	margin: 1em 0;
+	width: 100%;
+}
+
+.sidebar .sidebar-menus li a {
+	text-decoration: none;
+}
+
+a, .post-content a {
+	text-decoration: underline;
+}
+
+a:hover {
+	background-color: yellow;
+}

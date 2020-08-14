@@ -1,4 +1,68 @@
-baseURL = "http://fkner.github.io/o1g"
+baseURL = "http://fkner.github.io/o1g/"
 languageCode = "hu"
 title = "o1g"
 theme = "strange-case"
+copyright = "Public Domain"
+canonifyurls = true
+paginate = 500
+
+[params]
+    colorScheme = "scheme-darkbrown"
+    DateFormat = "2006.01.02"
+    description = "Fuck NER"
+    sidebarDescription = ""
+    sidebarFreeText = ""
+
+[[menu.main]]
+	name = "Főnök"
+	post = "<span class='glyphicon glyphicon-king'></span>"
+	url = "/fonok/orban-viktor"
+	weight = 10
+
+[[menu.main]]
+	name = "Oligarchák"
+	post = "<span class='glyphicon glyphicon-queen'></span>"
+	url = "/oligarchak"
+	weight = 20
+
+[[menu.main]]
+	name = "Káderek"
+	post = "<span class='glyphicon glyphicon-tower'></span>"
+	url = "/kaderek"
+	weight = 30
+
+[[menu.main]]
+	name = "Beszélő fejek"
+	post = "<span class='glyphicon glyphicon-bishop'></span>"
+	url = "/beszelo-fejek"
+	weight = 40
+
+[[menu.main]]
+	name = "Helytartók"
+	post = "<span class='glyphicon glyphicon-knight'></span>"
+	url = "/helytartok"
+	weight = 50
+
+[[menu.main]]
+	name = "Mítoszok"
+	post = "<span class='glyphicon glyphicon-picture'></span>"
+	url = "/mitoszok"
+	weight = 60
+
+[[menu.main]]
+	name = "Autokrácia"
+	post = "<span class='glyphicon glyphicon-eye-open'></span>"
+	url = "/autokracia"
+	weight = 70
+
+[[menu.main]]
+	name = "Kleptokrácia"
+	post = "<span class='glyphicon glyphicon-euro'></span>"
+	url = "/kleptokrácia"
+	weight = 80
+
+[[menu.main]]
+	name = "Aljasságok"
+	post = "<span class='glyphicon glyphicon-screenshot'></span>"
+	url = "/aljassagok"
+	weight = 90
