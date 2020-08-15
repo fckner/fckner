@@ -63,14 +63,14 @@ paginate = 500
 
 [[menu.main]]
 	name = "Maffiaállam"
-	post = "<span class='glyphicon glyphicon-euro'></span>"
+	post = "<span class='glyphicon glyphicon-piggy-bank'></span>"
 	url = "/tags/maffiaállam"
 	weight = 90
 
 [[menu.main]]
 	name = "Aljasságok"
 	post = "<span class='glyphicon glyphicon-screenshot'></span>"
-	url = "/tags/aljasságok"
+	url = "/tags/aljasság"
 	weight = 100
 
 [[menu.main]]
