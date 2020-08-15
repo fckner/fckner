@@ -1,7 +1,7 @@
 ---
-title: "Simicska Lajos"
+title: "Simicska Lajos [Hamarosan]"
 date: 2020-08-03T23:24:10+02:00
-draft: true
+draft: false
 tags: [oligarcha]
 ---
 

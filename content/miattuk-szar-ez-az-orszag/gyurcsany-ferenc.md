@@ -1,7 +1,7 @@
 ---
-title: "Gyurcsány Ferenc"
+title: "Gyurcsány Ferenc [Hamarosan]"
 date: 2020-08-09T14:38:23+02:00
-draft: true
+draft: false
 tags: [beszélő-fej]
 ---
 

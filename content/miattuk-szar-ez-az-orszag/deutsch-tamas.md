@@ -1,7 +1,7 @@
 ---
-title: "Deutsch Tamás"
+title: "Deutsch Tamás [Hamarosan]"
 date: 2020-08-04T02:26:44+02:00
-draft: true
+draft: false
 tags: [politikus, beszélő-fej]
 ---
 

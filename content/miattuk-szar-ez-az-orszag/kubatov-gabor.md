@@ -1,5 +1,5 @@
 ---
-title: "Kubatov Gábor"
+title: "Kubatov Gábor [Hamarosan]"
 date: 2020-08-04T00:01:55+02:00
 draft: false
 tags: [főkáder]

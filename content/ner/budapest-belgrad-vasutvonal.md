@@ -1,7 +1,7 @@
 ---
-title: "Budapest-Belgrád vasútvonal"
+title: "Budapest-Belgrád vasútvonal [Hamarosan]"
 date: 2020-08-13T23:09:48+02:00
-draft: true
+draft: false
 tags: [ner, kleptokrácia]
 ---
 

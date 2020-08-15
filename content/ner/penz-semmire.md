@@ -1,7 +1,7 @@
 ---
-title: "Pénz Semmire"
+title: "Pénz Semmire [Hamarosan]"
 date: 2020-08-09T15:26:20+02:00
-draft: true
+draft: false
 tags: [ner, kleptománia]
 ---
 

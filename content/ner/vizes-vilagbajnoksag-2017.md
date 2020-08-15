@@ -1,7 +1,7 @@
 ---
-title: "Vizes világbajnokság 2017"
+title: "Vizes világbajnokság 2017 [Hamarosan]"
 date: 2020-08-13T23:32:27+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

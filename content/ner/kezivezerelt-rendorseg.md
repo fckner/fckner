@@ -1,7 +1,7 @@
 ---
-title: "Kézivezérelt rendőrség"
+title: "Kézivezérelt rendőrség [Hamarosan]"
 date: 2020-08-09T15:51:36+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

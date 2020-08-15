@@ -1,7 +1,7 @@
 ---
-title: "Tiborcz István"
+title: "Tiborcz István [Hamarosan]"
 date: 2020-08-03T23:53:01+02:00
-draft: true
+draft: false
 tags: [oligarcha]
 ---
 

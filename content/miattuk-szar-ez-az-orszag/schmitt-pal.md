@@ -1,7 +1,7 @@
 ---
-title: "Schmitt Pál"
+title: "Schmitt Pál [Hamarosan]"
 date: 2020-08-04T02:37:46+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

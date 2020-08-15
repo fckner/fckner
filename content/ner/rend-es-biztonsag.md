@@ -1,7 +1,7 @@
 ---
-title: "Rend és biztonság"
+title: "Rend és biztonság [Hamarosan]"
 date: 2020-08-08T09:02:49+02:00
-draft: true
+draft: false
 tags: [ner, mítosz]
 ---
 

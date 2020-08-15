@@ -1,7 +1,7 @@
 ---
-title: "Ákos"
+title: "Ákos [Hamarosan]"
 date: 2020-08-10T00:18:55+02:00
-draft: true
+draft: false
 tags: [politikus, főkáder]
 ---
 

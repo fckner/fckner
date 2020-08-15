@@ -1,7 +1,7 @@
 ---
-title: "Stumpf István"
+title: "Stumpf István [Hamarosan]"
 date: 2020-08-04T02:12:01+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

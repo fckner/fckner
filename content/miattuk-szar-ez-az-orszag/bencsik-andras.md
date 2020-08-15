@@ -1,7 +1,7 @@
 ---
-title: "Bencsik Andras"
+title: "Bencsik András [Hamarosan]"
 date: 2020-08-10T01:06:35+02:00
-draft: true
+draft: false
 tags: [beszélő-fej]
 ---
 

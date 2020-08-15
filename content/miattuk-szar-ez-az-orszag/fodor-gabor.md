@@ -1,7 +1,7 @@
 ---
-title: "Fodor Gábor"
+title: "Fodor Gábor [Hamarosan]"
 date: 2020-08-03T23:42:55+02:00
-draft: true
+draft: false
 tags: [álellenzék]
 ---
 

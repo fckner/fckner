@@ -1,7 +1,7 @@
 ---
-title: "Befolyásolt igazságszolgáltatás"
+title: "Befolyásolt igazságszolgáltatás [Hamarosan]"
 date: 2020-08-09T20:37:50+02:00
-draft: true
+draft: false
 tags: [ner, autokrácia]
 ---
 

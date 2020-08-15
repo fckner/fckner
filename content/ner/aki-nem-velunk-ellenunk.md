@@ -1,7 +1,7 @@
 ---
-title: "Aki nem velünk, ellenünk"
+title: "Aki nem velünk, ellenünk [Hamarosan]"
 date: 2020-08-09T20:42:12+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

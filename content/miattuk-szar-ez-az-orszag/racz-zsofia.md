@@ -1,5 +1,5 @@
 ---
-title: "Rácz Zsófia"
+title: "Rácz Zsófia [Hamarosan]"
 date: 2020-08-07T20:59:36+02:00
 draft: false
 tags: [főkáder]

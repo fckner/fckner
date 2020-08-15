@@ -1,7 +1,7 @@
 ---
-title: "Bayer Zsolt"
+title: "Bayer Zsolt [Hamarosan]"
 date: 2020-08-03T23:52:32+02:00
-draft: true
+draft: false
 tags: [beszélő-fej]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "A Népszabadság vége"
+title: "A Népszabadság vége [Hamarosan]"
 date: 2020-08-10T01:01:41+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

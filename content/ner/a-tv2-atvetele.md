@@ -1,10 +1,9 @@
 ---
-title: "A Tv2 átvétele"
+title: "A Tv2 átvétele [Hamarosan]"
 date: 2020-08-10T01:00:48+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
-
 
 ## Feldolgozatlan linkek
 

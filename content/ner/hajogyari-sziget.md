@@ -1,7 +1,7 @@
 ---
-title: "Hajógyári-Sziget"
+title: "Hajógyári-Sziget [Hamarosan]"
 date: 2020-08-13T23:12:58+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Balog Zoltán"
+title: "Balog Zoltán [Hamarosan]"
 date: 2020-08-03T23:52:20+02:00
-draft: true
+draft: false
 tags: [politikus]
 ---
 

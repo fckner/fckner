@@ -1,7 +1,7 @@
 ---
-title: "Az állam foglyul ejtése"
+title: "Az állam foglyul ejtése [Hamarosan]"
 date: 2020-08-09T09:34:30+02:00
-draft: true
+draft: false
 tags: [ner, mítosz]
 ---
 

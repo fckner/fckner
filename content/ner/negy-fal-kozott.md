@@ -1,8 +1,8 @@
 ---
-title: "Negy Fal Kozott"
+title: "Négy fal között [Hamarosan]"
 date: 2020-08-10T01:03:53+02:00
-draft: true
-tags: [ner]
+draft: false
+tags: [ner, aljasság]
 ---
 
 ## Feldolgozatlan linkek

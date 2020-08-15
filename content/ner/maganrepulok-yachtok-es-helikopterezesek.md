@@ -1,7 +1,7 @@
 ---
-title: "Magánrepülők, Yachtok és helikopterezések"
+title: "Magánrepülők, Yachtok és helikopterezések [Hamarosan]"
 date: 2020-08-09T13:36:45+02:00
-draft: true
+draft: false
 tags: [ner, urizálás]
 ---
 

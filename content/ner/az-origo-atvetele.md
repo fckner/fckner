@@ -1,7 +1,7 @@
 ---
-title: "Az Origo átvétele"
+title: "Az Origo átvétele [Hamarosan]"
 date: 2020-08-10T01:00:39+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

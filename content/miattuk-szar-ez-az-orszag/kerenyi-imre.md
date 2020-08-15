@@ -1,7 +1,7 @@
 ---
-title: "Kerényi Imre"
+title: "Kerényi Imre [Hamarosan]"
 date: 2020-08-03T23:51:04+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

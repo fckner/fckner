@@ -1,7 +1,7 @@
 ---
-title: "Lakájmédia"
+title: "Lakájmédia [Hamarosan]"
 date: 2020-08-09T20:32:36+02:00
-draft: true
+draft: false
 tags: [ner, média]
 ---
 

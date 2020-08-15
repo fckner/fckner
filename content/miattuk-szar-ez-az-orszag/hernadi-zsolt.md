@@ -1,7 +1,7 @@
 ---
-title: "Hernádi Zsolt"
+title: "Hernádi Zsolt [Hamarosan]"
 date: 2020-08-03T23:41:42+02:00
-draft: true
+draft: false
 tags: [oligarcha]
 ---
 

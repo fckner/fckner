@@ -1,7 +1,7 @@
 ---
-title: "Tarlós István"
+title: "Tarlós István [Hamarosan]"
 date: 2020-08-03T23:40:13+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

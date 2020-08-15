@@ -1,7 +1,7 @@
 ---
-title: "Személyreszabott Törvények"
+title: "Személyreszabott Törvények [Hamarosan]"
 date: 2020-08-07T20:27:30+02:00
-draft: true
+draft: false
 tags: [ner, autokrácia]
 ---
 

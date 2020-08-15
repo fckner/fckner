@@ -1,7 +1,7 @@
 ---
-title: "Kocsis Máté"
+title: "Kocsis Máté [Hamarosan]"
 date: 2020-08-04T00:01:48+02:00
-draft: true
+draft: false
 tags: [káder]
 ---
 

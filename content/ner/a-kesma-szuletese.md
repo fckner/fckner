@@ -1,7 +1,7 @@
 ---
-title: "A Kesma születése"
+title: "A Kesma születése [Hamarosan]"
 date: 2020-08-10T01:02:05+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Kósa Lajos"
+title: "Kósa Lajos [Hamarosan]"
 date: 2020-08-03T23:42:02+02:00
-draft: true
+draft: false
 tags: [helytartó, főkáder]
 ---
 

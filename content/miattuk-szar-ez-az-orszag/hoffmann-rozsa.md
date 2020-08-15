@@ -1,7 +1,7 @@
 ---
-title: "Hoffmann Rózsa"
+title: "Hoffmann Rózsa [Hamarosan]"
 date: 2020-08-03T23:53:15+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

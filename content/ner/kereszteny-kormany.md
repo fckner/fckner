@@ -1,7 +1,7 @@
 ---
-title: "Keresztény kormány"
+title: "Keresztény kormány [Hamarosan]"
 date: 2020-08-08T09:06:21+02:00
-draft: true
+draft: false
 tags: [mítosz]
 ---
 

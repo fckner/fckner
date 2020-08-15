@@ -1,7 +1,7 @@
 ---
-title: "Foci"
+title: "Foci [Hamarosan]"
 date: 2020-08-09T13:18:43+02:00
-draft: true
+draft: false
 tags: [ner, urizálás]
 ---
 

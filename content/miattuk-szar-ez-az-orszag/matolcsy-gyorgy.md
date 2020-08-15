@@ -1,7 +1,7 @@
 ---
-title: "Matolcsy György"
+title: "Matolcsy György [Hamarosan]"
 date: 2020-08-04T00:02:40+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

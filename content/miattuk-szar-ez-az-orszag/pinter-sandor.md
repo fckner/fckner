@@ -1,7 +1,7 @@
 ---
-title: "Pintér Sándor"
+title: "Pintér Sándor [Hamarosan]"
 date: 2020-08-03T23:39:15+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

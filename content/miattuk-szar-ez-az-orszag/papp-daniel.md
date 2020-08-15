@@ -1,7 +1,7 @@
 ---
-title: "Papp Dániel"
+title: "Papp Dániel [Hamarosan]"
 date: 2020-08-04T00:03:21+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Andy Vajna"
+title: "Andy Vajna [Hamarosan]"
 date: 2020-08-03T23:52:46+02:00
-draft: true
+draft: false
 tags: [oligarcha, főkáder]
 ---
 

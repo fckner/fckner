@@ -1,5 +1,5 @@
 ---
-title: "Áder Janos"
+title: "Áder János [Hamarosan]"
 date: 2020-08-03T23:39:37+02:00
 draft: false
 tags: [politikus, főkáder]

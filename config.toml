@@ -1,4 +1,4 @@
-baseURL = "http://fckner.github.io/"
+baseURL = "https://fckner.github.io"
 languageCode = "hu"
 title = "o1g"
 theme = "strange-case"
@@ -16,53 +16,65 @@ paginate = 500
 [[menu.main]]
 	name = "Főnök"
 	post = "<span class='glyphicon glyphicon-king'></span>"
-	url = "/fonok/orban-viktor"
+	url = "/miattuk-szar-ez-az-orszag/orban-viktor"
 	weight = 10
 
 [[menu.main]]
 	name = "Oligarchák"
 	post = "<span class='glyphicon glyphicon-queen'></span>"
-	url = "/oligarchak"
+	url = "/tags/oligarcha"
 	weight = 20
 
 [[menu.main]]
-	name = "Káderek"
+	name = "Főkáderek"
 	post = "<span class='glyphicon glyphicon-tower'></span>"
-	url = "/kaderek"
+	url = "/tags/főkáder"
 	weight = 30
 
 [[menu.main]]
 	name = "Beszélő fejek"
 	post = "<span class='glyphicon glyphicon-bishop'></span>"
-	url = "/beszelo-fejek"
+	url = "/tags/beszélő-fej"
 	weight = 40
 
 [[menu.main]]
 	name = "Helytartók"
 	post = "<span class='glyphicon glyphicon-knight'></span>"
-	url = "/helytartok"
+	url = "/tags/helytartó"
 	weight = 50
 
 [[menu.main]]
 	name = "Mítoszok"
 	post = "<span class='glyphicon glyphicon-picture'></span>"
-	url = "/mitoszok"
+	url = "/tags/mítosz"
 	weight = 60
 
 [[menu.main]]
 	name = "Autokrácia"
 	post = "<span class='glyphicon glyphicon-eye-open'></span>"
-	url = "/autokracia"
+	url = "/tags/autokrácia"
 	weight = 70
 
 [[menu.main]]
 	name = "Kleptokrácia"
 	post = "<span class='glyphicon glyphicon-euro'></span>"
-	url = "/kleptokrácia"
+	url = "/tags/kleptokrácia"
 	weight = 80
+
+[[menu.main]]
+	name = "Maffiaállam"
+	post = "<span class='glyphicon glyphicon-euro'></span>"
+	url = "/tags/maffiaállam"
+	weight = 90
 
 [[menu.main]]
 	name = "Aljasságok"
 	post = "<span class='glyphicon glyphicon-screenshot'></span>"
-	url = "/aljassagok"
-	weight = 90
+	url = "/tags/aljasságok"
+	weight = 100
+
+[[menu.main]]
+	name = "Írj te is!"
+	post = "<span class='glyphicon glyphicon-bullhorn'></span>"
+	url = "https://github.com/fckner/fckner"
+	weight = 200

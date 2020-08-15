@@ -1,7 +1,7 @@
 ---
-title: "Németh Szilárd"
+title: "Németh Szilárd [Hamarosan]"
 date: 2020-08-04T00:03:02+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

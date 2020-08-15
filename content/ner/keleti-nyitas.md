@@ -1,7 +1,7 @@
 ---
-title: "Keleti nyitás"
+title: "Keleti nyitás [Hamarosan]"
 date: 2020-08-09T20:35:24+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Autópálya-építések"
+title: "Autópálya-építések [Hamarosan]"
 date: 2020-08-13T23:12:41+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

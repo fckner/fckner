@@ -1,7 +1,7 @@
 ---
-title: "Kásler Miklós"
+title: "Kásler Miklós [Hamarosan]"
 date: 2020-08-03T23:38:17+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

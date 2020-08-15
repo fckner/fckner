@@ -1,7 +1,7 @@
 ---
-title: "Magyarország 2010 2022"
+title: "Magyarország 2010-2022 [Hamarosan]"
 date: 2020-08-14T00:20:43+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Baloldali média tulsúly"
+title: "Baloldali média tulsúly [Hamarosan]"
 date: 2020-08-09T09:31:09+02:00
-draft: true
+draft: false
 tags: [ner, mítosz]
 ---
 

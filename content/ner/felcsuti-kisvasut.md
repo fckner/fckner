@@ -1,7 +1,7 @@
 ---
-title: "Felcsúti kisvasút"
+title: "Felcsúti kisvasút [Hamarosan]"
 date: 2020-08-09T09:14:01+02:00
-draft: true
+draft: false
 tags: [ner, megalománia, kleptokrácia]
 ---
 

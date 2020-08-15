@@ -1,7 +1,7 @@
 ---
-title: "Gruevszki-ügy"
+title: "Gruevszki-ügy [Hamarosan]"
 date: 2020-08-13T23:11:07+02:00
-draft: true
+draft: false
 tags: [ner, maffiaállam]
 ---
 

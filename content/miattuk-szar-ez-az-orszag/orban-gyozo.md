@@ -1,17 +1,19 @@
 ---
-title: "Handó Tünde [Hamarosan]"
-date: 2020-08-04T02:12:08+02:00
+title: "Orbán Győző [Hamarosan]"
+date: 2020-08-15T13:50:14+02:00
 draft: false
-tags: [főkáder]
+tags: [oligarcha, ner-celeb]
 ---
 
 ## Röviden
+
+
 
 ## Legfontosabbak
 
 |                           |                                                                    |
 | :---                      | :----                                                              |
-| Alapadatok                | Handó Tünde (1962-)                                                |
+| Alapadatok                | Papp Dániel (1978-)                                                |
 | Kinek a kije              |                                                                    |
 | Ismert becenevei          |                                                                    |
 | Ismert gúnynevei          |                                                                    |
@@ -21,6 +23,10 @@ tags: [főkáder]
 
 ## Legfőbb bűnei
 
+
+
 ## Sztori
+
+- [Az Orbán-család ismeretlen története | első rész | PartizánINFO](https://www.youtube.com/watch?v=mtHwBhjXeK0)
 
 ## Feldolgozatlan linkek

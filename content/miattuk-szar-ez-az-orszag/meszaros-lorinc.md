@@ -1,7 +1,7 @@
 ---
-title: "Mészáros Lőrinc"
+title: "Mészáros Lőrinc [Hamarosan]"
 date: 2020-08-04T00:02:15+02:00
-draft: true
+draft: false
 tags: [oligarcha]
 ---
 

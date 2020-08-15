@@ -1,7 +1,7 @@
 ---
-title: "Kövér László"
+title: "Kövér László [Hamarosan]"
 date: 2020-08-03T23:42:08+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: "Magannyugdij Penztarak"
+title: "Magánnyugdíj Pénztárak [Hamarosan]"
 date: 2020-08-10T00:22:26+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

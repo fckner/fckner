@@ -1,7 +1,7 @@
 ---
-title: "Selmeci Gabriella"
+title: "Selmeci Gabriella [Hamarosan]"
 date: 2020-08-09T15:56:10+02:00
-draft: true
+draft: false
 tags: [beszélő-fej, káder]
 ---
 

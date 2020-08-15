@@ -1,7 +1,7 @@
 ---
-title: "Gazdag rokonok"
+title: "Gazdag rokonok [Hamarosan]"
 date: 2020-08-09T13:42:08+02:00
-draft: true
+draft: false
 tags: [ner, autokrácia, rokonok]
 ---
 

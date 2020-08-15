@@ -1,7 +1,7 @@
 ---
-title: "Vida Ildikó"
+title: "Vida Ildikó [Hamarosan]"
 date: 2020-08-04T02:22:07+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

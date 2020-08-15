@@ -1,7 +1,7 @@
 ---
-title: "Az Index átvétele"
+title: "Az Index átvétele [Hamarosan]"
 date: 2020-08-11T11:40:04+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 

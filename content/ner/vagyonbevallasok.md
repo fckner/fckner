@@ -1,8 +1,8 @@
 ---
-title: "Vagyonbevallások"
+title: "Vagyonbevallások [Hamarosan]"
 date: 2020-08-09T13:36:21+02:00
-draft: true
-tags: [ner]
+draft: false
+tags: [ner, kleptokrácia]
 ---
 
 ## Feldolgozatlan linkek

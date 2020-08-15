@@ -1,7 +1,7 @@
 ---
-title: "Lázár János"
+title: "Lázár János [Hamarosan]"
 date: 2020-08-04T02:19:54+02:00
-draft: true
+draft: false
 tags: [főkáder]
 ---
 

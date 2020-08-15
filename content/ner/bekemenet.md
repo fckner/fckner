@@ -1,7 +1,7 @@
 ---
-title: "Békemenet"
+title: "Békemenet [Hamarosan]"
 date: 2020-08-10T00:48:10+02:00
-draft: true
+draft: false
 tags: [ner]
 ---
 
