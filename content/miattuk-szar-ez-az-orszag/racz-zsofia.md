@@ -1,8 +1,8 @@
 ---
-title: "Rácz Zsófia [Hamarosan]"
+title: "Rácz Zsófia"
 date: 2020-08-07T20:59:36+02:00
 draft: false
-tags: [főkáder]
+tags: [kiskáder, beszélő-fej, politikus]
 ---
 
 ## Röviden

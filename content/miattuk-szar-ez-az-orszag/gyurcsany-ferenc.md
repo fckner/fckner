@@ -11,6 +11,22 @@ Gyurcsány Ferenc talán az egyetlen személy ezen az oldalon, akiről nem lehet
 
 Sajnos még egy ilyen megengedő leosztásban is igaz, hogy rengeteg kárt okoz az ellenzéki erőknek a beépített trollseregével.
 
+## Legfontosabbak
+
+|                           |                                                                    |
+| :---                      | :----                                                              |
+| Alapadatok                | Bayer Zsolt (1963-)                                                |
+| Kinek a kije              |                                                                    |
+| Ismert becenevei          |                                                                    |
+| Ismert gúnynevei          |                                                                    |
+
+*Főbb pozíciói:*
+
+
+## Legfőbb bűnei
+
+## Sztori
+
 ## Feldolgozatlan linkek
 
 - [Mao társaságában tűnt fel Gyurcsány](https://index.hu/gazdasag/2017/12/22/gyurcsany_ferenc_vezeto_politikus_gdp_novekedes_tanulmany_kutatas_william_easterly/)

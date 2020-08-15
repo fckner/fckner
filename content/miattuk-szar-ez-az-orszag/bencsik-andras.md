@@ -5,6 +5,24 @@ draft: false
 tags: [beszélő-fej]
 ---
 
+## Röviden
+
+## Legfontosabbak
+
+|                           |                                                                    |
+| :---                      | :----                                                              |
+| Alapadatok                | Bayer Zsolt (1963-)                                                |
+| Kinek a kije              |                                                                    |
+| Ismert becenevei          |                                                                    |
+| Ismert gúnynevei          |                                                                    |
+
+*Főbb pozíciói:*
+
+
+## Legfőbb bűnei
+
+## Sztori
+
 ## Feldolgozatlan linkek
 
 - [Farkasházy kivégzéséről fantáziált Bencsik András](https://hvg.hu/velemeny.nyuzsog/20160310_Farkashazy_kivegzeserol_fantazialt_Bencsik_Andras)
