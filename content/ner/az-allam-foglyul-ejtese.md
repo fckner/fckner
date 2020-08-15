@@ -2,7 +2,7 @@
 title: "Az állam foglyul ejtése [Hamarosan]"
 date: 2020-08-09T09:34:30+02:00
 draft: false
-tags: [ner, mítosz]
+tags: [ner, maffiaállam]
 ---
 
 ## Feldolgozatlan linkek
