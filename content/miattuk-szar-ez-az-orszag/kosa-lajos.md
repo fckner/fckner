@@ -2,10 +2,10 @@
 title: "Kósa Lajos [Hamarosan]"
 date: 2020-08-03T23:42:02+02:00
 draft: false
-tags: [helytartó, főkáder]
+tags: [helytarto, fokader]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

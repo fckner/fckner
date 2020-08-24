@@ -2,10 +2,10 @@
 title: "Papp Dániel [Hamarosan]"
 date: 2020-08-04T00:03:21+02:00
 draft: false
-tags: [főkáder]
+tags: [fokader]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 
 

@@ -2,7 +2,7 @@
 title: "V4na [Hamarosan]"
 date: 2020-08-16T21:45:46+02:00
 draft: false
-tags: [külpolitika]
+tags: [kulpolitika]
 ---
 
 ## Feldolgozatlan linkek

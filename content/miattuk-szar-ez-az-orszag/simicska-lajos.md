@@ -5,7 +5,7 @@ draft: false
 tags: [oligarcha]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 
 
@@ -30,4 +30,5 @@ tags: [oligarcha]
 
 ## Feldolgozatlan linkek
 
-- [A NER oligarchái: ha nem hibáznak, már az ükunokáik aranypelenkáját is biztosították](https://hvg.hu/kkv/20180228_haveri_kapitalizmus_korrupcio_orban_kormany_simicska_meszaros_tiborcz_garancsi_santa_rogan_speder)
+- [A NER oligarchái: ha nem hibáznak, már az ükunokáik aranypelenkáját is biztosították - 2018, hvg.hu](https://hvg.hu/kkv/20180228_haveri_kapitalizmus_korrupcio_orban_kormany_simicska_meszaros_tiborcz_garancsi_santa_rogan_speder)
+- [Kis Oligarchatározó: Simicska Lajos - 2012, atlatszo.hu](https://atlatszo.hu/2012/11/12/kis-oligarchatarozo-simicska-lajos/)

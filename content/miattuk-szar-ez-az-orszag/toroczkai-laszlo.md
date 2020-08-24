@@ -2,10 +2,10 @@
 title: "Toroczkai László [Hamarosan]"
 date: 2020-08-16T10:26:01+02:00
 draft: true
-tags: [álellenzék, politikus]
+tags: [alellenzek, politikus]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

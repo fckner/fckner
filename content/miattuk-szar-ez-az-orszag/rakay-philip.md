@@ -2,10 +2,10 @@
 title: "Rákay Philip [Hamarosan]"
 date: 2020-08-04T00:03:42+02:00
 draft: false
-tags: [főkáder]
+tags: [fokader]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 
 

@@ -2,10 +2,10 @@
 title: "Vida Ildikó [Hamarosan]"
 date: 2020-08-04T02:22:07+02:00
 draft: false
-tags: [főkáder]
+tags: [fokader]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 
 

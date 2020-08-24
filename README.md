@@ -23,6 +23,7 @@ A követelmények egyszerűek:
     - [g7.hu](https://g7.hu/)
     - [magyarnarancs.hu](https://magyarnarancs.hu/)
     - [merce.hu](https://merce.hu/)
+    - [mfor.hu](https://mfor.hu/)
     - [napi.hu](https://www.napi.hu/)
     - [nepszava.hu](https://nepszava.hu/)
     - [Partizán](https://partizan.merce.hu/)

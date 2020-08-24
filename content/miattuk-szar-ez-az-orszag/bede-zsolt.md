@@ -2,10 +2,10 @@
 title: "Bede Zsolt [Hamarosan]"
 date: 2020-08-03T23:52:46+02:00
 draft: false
-tags: [beszélő-fej, ner-celeb]
+tags: [beszelo-fej, ner-celeb]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

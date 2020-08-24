@@ -2,10 +2,10 @@
 title: "Balog Zoltán [Hamarosan]"
 date: 2020-08-03T23:52:20+02:00
 draft: false
-tags: [főkáder, politikus]
+tags: [fokader, politikus]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

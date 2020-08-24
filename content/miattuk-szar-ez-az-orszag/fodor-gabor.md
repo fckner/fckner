@@ -2,10 +2,10 @@
 title: "Fodor Gábor [Hamarosan]"
 date: 2020-08-03T23:42:55+02:00
 draft: false
-tags: [álellenzék, politikus]
+tags: [alellenzek, politikus]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

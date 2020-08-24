@@ -5,7 +5,7 @@ draft: false
 tags: [oligarcha, ner-celeb]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 
 

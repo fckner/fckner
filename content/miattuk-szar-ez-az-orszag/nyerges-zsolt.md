@@ -5,7 +5,7 @@ draft: false
 tags: [oligarcha]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 
@@ -22,3 +22,5 @@ tags: [oligarcha]
 ## Sztori
 
 ## Feldolgozatlan linkek
+
+- [Kis Oligarchatározó: Nyerges Zsolt - 2012, atlatszo.hu](https://atlatszo.hu/2012/10/30/kis-oligarchatarozo-nyerges-zsolt/)

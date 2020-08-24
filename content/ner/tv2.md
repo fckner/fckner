@@ -2,7 +2,7 @@
 title: "Tv2 [Hamarosan]"
 date: 2020-08-10T01:00:48+02:00
 draft: false
-tags: [maffiaállam, autokrácia, média]
+tags: [maffiaallam, autokracia, media]
 ---
 
 ## Feldolgozatlan linkek

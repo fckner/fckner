@@ -28,7 +28,7 @@ Később az ügyészség a trafkpályázat törvényességének vizsgálatát az
 - [Lázár János](../../miattuk-szar-hely-ez-az-orszag/lazar-janos)
 - [Sánta János](../../miattuk-szar-hely-ez-az-orszag/santa-janos)
 
-## További muníció
+## További linkek
 
 - [Trafikmutyi - k-monitor.hu](https://adatbazis.k-monitor.hu/adatbazis/cimkek/trafikmutyi)
 - [Kihirdették: 5415 dohánybolt nyílhat július 1-jével - 2013, hvg.hu](https://hvg.hu/kkv/20130423_Kihirdettek_5415_dohanybolt_nyilhat_juliu)

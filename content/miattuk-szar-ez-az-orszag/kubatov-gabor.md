@@ -1,11 +1,11 @@
 ---
 title: "Kubatov Gábor"
-date: 2020-08-04T00:01:55+02:00
+date: 2020-08-24T00:01:55+02:00
 draft: false
-tags: [főkáder]
+tags: [fokader]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 Kubatov pályája a érdekesebb legtöbb Fideszes politikusénál. Míg azok többnyira vagy a KISZ-ben vagy valamelyik nagyobb egyetem diákönkormányzatában "képződtek" (értsd: szoktak rá a hatalmaskodásra, a szabályok görbítésére és a közös vagyonok lenyúlására), addig Kubatov eredeti szakmája szerint mechanikai műszerész, később felsőfokú műszaki kárszakértő lett és a Fradi-ultrákhoz tartozott. 
 
@@ -43,7 +43,7 @@ Bár Kubatov nyilvánvalóan elfoglalt ember, a parlamenti munkát azért nem ve
 - [A hatalom huligánjai - 444.hu videó](https://444.hu/2020/05/27/a-hatalom-huliganjai]
 - [A hatalom egy éve kopasz erőemberekkel mutatta meg, mi a véleménye a demokráciáról - 444.hu (2017)](https://444.hu/2017/02/23/a-hatalom-egy-eve-kopasz-eroemberekkel-mutatta-meg-mi-a-velemenye-a-demokraciarol)
 
-## További muníció
+## További linkek
 
 - [Kubatov Gábor, az ember](https://444.hu/2016/05/05/kubatov-gabor-az-ember)
 - [3 dolog, ami nem stimmel Kubatov Vizoviczki-nyilatkozatai körül](https://444.hu/2016/07/29/3-dolog-ami-nem-stimmel-kubatov-vizoviczki-nyilatkozatai-korul)

@@ -2,7 +2,7 @@
 title: "Varga István [Hamarosan]"
 date: 2020-08-16T21:42:43+02:00
 draft: false
-tags: [kiskáder, beszélő-fej]
+tags: [kiskáder, beszelo-fej]
 ---
 
 ## Feldolgozatlan linkek

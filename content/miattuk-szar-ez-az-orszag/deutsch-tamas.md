@@ -2,10 +2,10 @@
 title: "Deutsch Tamás [Hamarosan]"
 date: 2020-08-04T02:26:44+02:00
 draft: false
-tags: [politikus, beszélő-fej]
+tags: [politikus, beszelo-fej]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

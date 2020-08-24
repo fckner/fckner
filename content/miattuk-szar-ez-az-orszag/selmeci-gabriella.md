@@ -2,10 +2,10 @@
 title: "Selmeci Gabriella [Hamarosan]"
 date: 2020-08-09T15:56:10+02:00
 draft: false
-tags: [beszélő-fej, káder]
+tags: [beszelo-fej, káder]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

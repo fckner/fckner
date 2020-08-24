@@ -2,10 +2,10 @@
 title: "Habony Árpád [Hamarosan]"
 date: 2020-08-03T23:53:01+02:00
 draft: false
-tags: [oligarcha, beszélő-fej, főkáder]
+tags: [oligarcha, beszelo-fej, fokader]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

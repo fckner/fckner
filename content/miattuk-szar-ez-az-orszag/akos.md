@@ -1,8 +1,8 @@
 ---
 title: "Ákos"
-date: 2020-08-10T00:18:55+02:00
+date: 2020-08-24T22:18:55+02:00
 draft: false
-tags: [ner-celeb, beszélő-fej]
+tags: [ner-celeb, beszelo-fej]
 ---
 
 ## Röviden és szubjektíven

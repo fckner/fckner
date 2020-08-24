@@ -2,7 +2,7 @@
 title: "Aki nem velünk, ellenünk [Hamarosan]"
 date: 2020-08-09T20:42:12+02:00
 draft: false
-tags: [ner]
+tags: [aljasság]
 ---
 
 ## Feldolgozatlan linkek

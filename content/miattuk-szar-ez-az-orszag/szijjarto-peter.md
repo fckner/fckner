@@ -2,10 +2,10 @@
 title: "Szijjártó Péter [Hamarosan]"
 date: 2020-08-16T11:26:18+02:00
 draft: true
-tags: [főkáder, politikus]
+tags: [fokader, politikus]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

@@ -2,10 +2,10 @@
 title: "Hoffmann Rózsa [Hamarosan]"
 date: 2020-08-03T23:53:15+02:00
 draft: false
-tags: [főkáder]
+tags: [fokader]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 

@@ -2,12 +2,14 @@
 title: "Orbán Viktor"
 date: 2020-08-03T23:49:28+02:00
 draft: false
-tags: [főnök]
+tags: [fonok]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 A valaha volt fiatal liberális demokratából először középkorú konzervatív, majd koravén autokrata lett. Mára a magyar demokrácia, a klasszikus és modern liberalizmus, az érték alapú társadalom és a valódi kapitalizmus legfőbb ellensége, aki nélkül fontos kérdés nem dőlhet el Magyarországon.
+
+Nélküle valószínűleg ez az oldal sem létezhetne, tulajdonképpen minden egyes itt szereplő vagy említett történethez kapcsolódik valamilyen szálon vagy formában.
 
 ## Legfontosabbak
 

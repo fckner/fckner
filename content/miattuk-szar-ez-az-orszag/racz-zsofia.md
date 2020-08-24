@@ -1,11 +1,11 @@
 ---
 title: "Rácz Zsófia"
-date: 2020-08-07T20:59:36+02:00
+date: 2020-08-22T20:59:36+02:00
 draft: false
-tags: [kiskáder, beszélő-fej, politikus]
+tags: [kiskáder, beszelo-fej, politikus]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 Rácz Zsófia egyelőre nem fontos része a gépezetnek, szimplán csak a nyilvánvaló hazugságai és pökhendisége révén érdemelte ki, hogy jelen listában szerepeljen.
 

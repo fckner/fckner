@@ -2,10 +2,10 @@
 title: "Bencsik András [Hamarosan]"
 date: 2020-08-10T01:06:35+02:00
 draft: false
-tags: [beszélő-fej, ner-celeb]
+tags: [beszelo-fej, ner-celeb]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
 ## Legfontosabbak
 
