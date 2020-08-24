@@ -2,7 +2,7 @@
 title: "Lakájmédia [Hamarosan]"
 date: 2020-08-09T20:32:36+02:00
 draft: false
-tags: [ner, média]
+tags: [maffiaállam, autokrácia, média]
 ---
 
 ## Feldolgozatlan linkek

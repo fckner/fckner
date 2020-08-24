@@ -15,8 +15,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Polt Péter (1955-)                                                 |
 | Kinek a kije              | [Áder János](../ader-janos) egyetemi barátja                       |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

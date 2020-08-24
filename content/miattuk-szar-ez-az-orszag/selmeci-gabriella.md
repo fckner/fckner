@@ -13,8 +13,6 @@ tags: [beszélő-fej, káder]
 | :---                      | :----                                                              |
 | Alapadatok                | Selmeczi Gabriella (1965-)                                         |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

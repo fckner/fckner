@@ -2,7 +2,7 @@
 title: "Balog Zoltán [Hamarosan]"
 date: 2020-08-03T23:52:20+02:00
 draft: false
-tags: [politikus]
+tags: [főkáder, politikus]
 ---
 
 ## Röviden
@@ -13,8 +13,6 @@ tags: [politikus]
 | :---                      | :----                                                              |
 | Alapadatok                | Balog Zoltán (1958-)                                               |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

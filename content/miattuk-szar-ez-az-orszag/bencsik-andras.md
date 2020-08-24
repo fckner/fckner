@@ -2,7 +2,7 @@
 title: "Bencsik András [Hamarosan]"
 date: 2020-08-10T01:06:35+02:00
 draft: false
-tags: [beszélő-fej]
+tags: [beszélő-fej, ner-celeb]
 ---
 
 ## Röviden
@@ -13,8 +13,6 @@ tags: [beszélő-fej]
 | :---                      | :----                                                              |
 | Alapadatok                | Bayer Zsolt (1963-)                                                |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

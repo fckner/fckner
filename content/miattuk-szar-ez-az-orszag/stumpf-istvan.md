@@ -15,8 +15,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Stumpf István (1957-)                                              |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

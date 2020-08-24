@@ -13,8 +13,6 @@ tags: [politikus, beszélő-fej]
 | :---                      | :----                                                              |
 | Alapadatok                | Deutsch Tamás (1966-)                                              |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

@@ -15,8 +15,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Vida Ildikó (1964-)                                                |
 | Kinek a kije              | [Orbán bibós szakkollégiumi társa](../orban-viktor)                |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

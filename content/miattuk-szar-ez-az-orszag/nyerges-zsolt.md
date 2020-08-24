@@ -13,8 +13,6 @@ tags: [oligarcha]
 | :---                      | :----                                                              |
 | Alapadatok                | Nyerges Zsolt (1967-)                                              |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

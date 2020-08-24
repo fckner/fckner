@@ -13,8 +13,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Matolcsy György (1955-)                                            |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

@@ -19,10 +19,8 @@ Bár világos, hogy Schmitt Pálhoz képest egy más ligában játszó ember (é
 | :---                      | :----                                                              |
 | Alapadatok                | Áder János, (1959-)                                                |
 | Kinek a kije              | [Orbán bibós szakkollégiumi társa](../orban-viktor)                |
-| Ismert becenevei          | Janó                                                               |
-| Ismert gúnynevei          | Bajszos szar, A nemzet tolla, A csornai Charles Bronzon            |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 - Köztársasági elnök (2012-)
 

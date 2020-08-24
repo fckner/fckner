@@ -1,13 +1,22 @@
 ---
-title: "Baloldali média tulsúly [Hamarosan]"
+title: "Baloldali média túlsúly [Hamarosan]"
 date: 2020-08-09T09:31:09+02:00
 draft: false
-tags: [ner, mítosz]
+tags: [mítosz, maffiaállam, autokrácia]
 ---
 
 ## Röviden
 
-## Kapcsolódó videók
+## Kapcsolódó oldalak
+
+- [Vadhajtások](../vadhajtasok)
+- [888.hu](../888)
+- [Kesma](../kesma)
+- [Bede Zsolt](../../miattuk-szar-hely-ez-az-orszag/bede-zsolt)
+- [Bayer Zsolt](../../miattuk-szar-hely-ez-az-orszag/bayer-zsolt)
+- [Bencsik András](../../miattuk-szar-hely-ez-az-orszag/bencsik-andras)
+- [Habony Árpád](../../miattuk-szar-hely-ez-az-orszag/habony-arpad)
+- [Kerényi Imre](../../miattuk-szar-hely-ez-az-orszag/kerenyi-imre)
 
 ## Feldolgozatlan linkek
 

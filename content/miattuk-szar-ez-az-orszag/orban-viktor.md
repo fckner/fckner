@@ -15,12 +15,10 @@ A valaha volt fiatal liberális demokratából először középkorú konzervat�
 | :---                      | :----                                                              |
 | Alapadatok                | Orbán Viktor Mihály, (1963-)                                       |
 | Kinek a kije              | A Fidesz alfája és Omegája. Esetében ez a kérdés értelmezhetetlen. |
-| Ismert becenevei          | Viktor, A főnök                                                    |
-| Ismert gúnynevei          | O1G, Csúti Törpe, Felcsúti Ramszesz, A magyar Napóleon             |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
-- Miniszterelnök (1998-2002, 2010-)
+- Magyarország miniszterelnöke (1998-2002, 2010-)
 - Fidesz pártelnök (1993-2000, 2003-)
 
 ## Legfőbb bűnei

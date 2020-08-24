@@ -15,8 +15,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Papp Dániel (1978-)                                                |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

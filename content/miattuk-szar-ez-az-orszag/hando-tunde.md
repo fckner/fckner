@@ -13,8 +13,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Handó Tünde (1962-)                                                |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

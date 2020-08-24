@@ -13,8 +13,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Kerényi Imre (1943-)                                               |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

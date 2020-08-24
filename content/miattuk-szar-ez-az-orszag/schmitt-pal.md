@@ -15,8 +15,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Schmitt Pál (1942-)                                                |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

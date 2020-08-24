@@ -13,8 +13,6 @@ tags: [helytartó, főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Kósa Lajos (1964-)                                                 |
 | Kinek a kije              | [Orbán bibós szakkollégiumi társa](../orban-viktor)                |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

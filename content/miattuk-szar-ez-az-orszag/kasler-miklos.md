@@ -13,8 +13,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Kásler Miklós (1950-)                                              |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

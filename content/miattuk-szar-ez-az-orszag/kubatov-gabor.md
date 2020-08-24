@@ -27,8 +27,6 @@ Bár Kubatov nyilvánvalóan elfoglalt ember, a parlamenti munkát azért nem ve
 | :---                      | :----                                                              |
 | Alapadatok                | Kubatov Gábor (1966-)                                              |
 | Kinek a kije              | nem ismert                                                         |
-| Ismert becenevei          | nem ismert                                                         |
-| Ismert gúnynevei          | nem ismert                                                         |
 
 *Főbb pozíciói:*
 

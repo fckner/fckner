@@ -13,8 +13,6 @@ tags: [oligarcha, főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Vajna András György (1944-2019)                                    |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          | Mister Cinema                                                      |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 
@@ -24,3 +22,5 @@ tags: [oligarcha, főkáder]
 ## Sztori
 
 ## Feldolgozatlan linkek
+
+- [A NER oligarchái: ha nem hibáznak, már az ükunokáik aranypelenkáját is biztosították](https://hvg.hu/kkv/20180228_haveri_kapitalizmus_korrupcio_orban_kormany_simicska_meszaros_tiborcz_garancsi_santa_rogan_speder)

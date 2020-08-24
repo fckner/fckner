@@ -13,8 +13,6 @@ tags: [oligarcha]
 | :---                      | :----                                                              |
 | Alapadatok                | Hernádi Zsolt Tamás (1960-)                                        |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

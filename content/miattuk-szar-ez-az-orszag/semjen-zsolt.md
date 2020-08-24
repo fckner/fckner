@@ -15,8 +15,6 @@ tags: [beszélő-fej, főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Semjén Zsolt (1962-)                                               |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          | Tömjén Zsolti                                                      |
 
 *Főbb pozíciói:*
 

@@ -13,8 +13,6 @@ tags: [főkáder]
 | :---                      | :----                                                              |
 | Alapadatok                | Németh Szilárd (1964-)                                             |
 | Kinek a kije              |                                                                    |
-| Ismert becenevei          |                                                                    |
-| Ismert gúnynevei          |                                                                    |
 
 *Főbb pozíciói:*
 

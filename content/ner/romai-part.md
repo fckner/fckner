@@ -2,7 +2,7 @@
 title: "Római Part [Hamarosan]"
 date: 2020-08-13T23:13:09+02:00
 draft: false
-tags: [ner]
+tags: [maffiaállam, kleptokrácia, klientúra]
 ---
 
 ## Feldolgozatlan linkek

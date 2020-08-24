@@ -7,4 +7,4 @@ tags: [ner]
 
 ## Feldolgozatlan linkek
 
-- https://hvg.hu/gazdasag/20130606_Letiltjak_a_nem_allami_adomanyvonalakat
+- [Letiltják a nem állami adományvonalakat](https://hvg.hu/gazdasag/20130606_Letiltjak_a_nem_allami_adomanyvonalakat)

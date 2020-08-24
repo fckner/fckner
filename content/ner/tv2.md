@@ -1,8 +1,8 @@
 ---
-title: "A Tv2 átvétele [Hamarosan]"
+title: "Tv2 [Hamarosan]"
 date: 2020-08-10T01:00:48+02:00
 draft: false
-tags: [ner]
+tags: [maffiaállam, autokrácia, média]
 ---
 
 ## Feldolgozatlan linkek
