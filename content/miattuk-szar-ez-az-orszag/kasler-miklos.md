@@ -14,7 +14,7 @@ tags: [főkáder]
 | Alapadatok                | Kásler Miklós (1950-)                                              |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 ## Legfőbb bűnei
 

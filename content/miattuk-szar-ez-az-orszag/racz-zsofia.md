@@ -20,9 +20,9 @@ Mint említettem, Rácz Zsófia eddig semmilyen maradandó hasznot vagy kárt ne
 |                           |                                                                                                         |
 | :---                      | :----                                                                                                   |
 | Alapadatok                | Rácz Zsófia, (?1997-)                                                                                   |
-| Kinek a kije              | Nem ismert semmilyen személyes kötődése, elsősorban fiatalsága miatt kerülhetett jogellenesen pozícióba |
+| Kinek a kije              | Nem ismert semmilyen személyes kötődése, elsősorban fiatalsága miatt kerülhetett pozícióba              |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 - Helyettes államtitkár (2019-)
 

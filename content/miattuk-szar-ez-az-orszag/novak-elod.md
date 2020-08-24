@@ -1,7 +1,8 @@
 ---
-title: "Novak Elod"
+title: "Novák Előd [Hamarosan]"
 date: 2020-08-18T22:37:22+02:00
-draft: true
+draft: false
+tags: [álellenzék, politikus]
 ---
 
 ## Feldolgozatlan linkek

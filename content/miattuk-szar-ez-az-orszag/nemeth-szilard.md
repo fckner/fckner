@@ -14,7 +14,7 @@ tags: [főkáder]
 | Alapadatok                | Németh Szilárd (1964-)                                             |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

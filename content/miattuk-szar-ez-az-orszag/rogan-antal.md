@@ -16,7 +16,7 @@ tags: [főkáder]
 | Alapadatok                | Rogán Antal (1972-)                                                |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

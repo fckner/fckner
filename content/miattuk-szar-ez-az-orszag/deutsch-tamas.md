@@ -14,7 +14,7 @@ tags: [politikus, beszélő-fej]
 | Alapadatok                | Deutsch Tamás (1966-)                                              |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

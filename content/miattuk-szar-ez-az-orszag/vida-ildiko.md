@@ -16,7 +16,7 @@ tags: [főkáder]
 | Alapadatok                | Vida Ildikó (1964-)                                                |
 | Kinek a kije              | [Orbán bibós szakkollégiumi társa](../orban-viktor)                |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

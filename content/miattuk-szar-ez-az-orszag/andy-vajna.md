@@ -14,7 +14,7 @@ tags: [oligarcha, főkáder]
 | Alapadatok                | Vajna András György (1944-2019)                                    |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

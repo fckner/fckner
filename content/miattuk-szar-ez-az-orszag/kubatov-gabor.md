@@ -28,7 +28,7 @@ Bár Kubatov nyilvánvalóan elfoglalt ember, a parlamenti munkát azért nem ve
 | Alapadatok                | Kubatov Gábor (1966-)                                              |
 | Kinek a kije              | nem ismert                                                         |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 - Fidesz alelnök (2015-)
 - Fradi elnök (2011-)

@@ -16,7 +16,7 @@ tags: [főkáder]
 | Alapadatok                | Schmitt Pál (1942-)                                                |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 - Köztársasági elnök (2010-2012)
 - MOB elnök (1989-2010)

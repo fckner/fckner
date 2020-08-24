@@ -14,7 +14,7 @@ tags: [főkáder]
 | Alapadatok                | Fekete György (1932-2020)                                          |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

@@ -16,7 +16,7 @@ tags: [beszélő-fej, főkáder]
 | Alapadatok                | Semjén Zsolt (1962-)                                               |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

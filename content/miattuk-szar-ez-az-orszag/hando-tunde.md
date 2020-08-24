@@ -14,7 +14,7 @@ tags: [főkáder]
 | Alapadatok                | Handó Tünde (1962-)                                                |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

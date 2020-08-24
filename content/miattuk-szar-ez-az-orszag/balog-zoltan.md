@@ -14,7 +14,7 @@ tags: [főkáder, politikus]
 | Alapadatok                | Balog Zoltán (1958-)                                               |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

@@ -2,7 +2,7 @@
 title: "Oroszok a spájzban [Hamarosan]"
 date: 2020-08-09T14:39:40+02:00
 draft: false
-tags: [ner]
+tags: [külpolitika]
 ---
 
 ## Feldolgozatlan linkek

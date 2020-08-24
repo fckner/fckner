@@ -16,7 +16,7 @@ tags: [főkáder]
 | Alapadatok                | Stumpf István (1957-)                                              |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

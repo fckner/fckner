@@ -14,7 +14,7 @@ tags: [beszélő-fej, ner-celeb]
 | Alapadatok                | Bayer Zsolt (1963-)                                                |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

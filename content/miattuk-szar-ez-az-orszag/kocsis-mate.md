@@ -14,7 +14,7 @@ tags: [főkáder]
 | Alapadatok                | Kocsis Máté (1981-)                                                |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

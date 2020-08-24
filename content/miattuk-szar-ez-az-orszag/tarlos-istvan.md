@@ -16,7 +16,7 @@ tags: [főkáder]
 | Alapadatok                | Tarlós István (1948-)                                              |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

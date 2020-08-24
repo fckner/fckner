@@ -16,7 +16,7 @@ tags: [oligarcha, ner-celeb]
 | Alapadatok                | Papp Dániel (1978-)                                                |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

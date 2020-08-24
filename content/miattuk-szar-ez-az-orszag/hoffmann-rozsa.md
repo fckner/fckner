@@ -14,7 +14,7 @@ tags: [főkáder]
 | Alapadatok                | Hoffmann Rózsa (1948-)                                             |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

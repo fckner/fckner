@@ -14,7 +14,7 @@ tags: [oligarcha]
 | Alapadatok                | Nyerges Zsolt (1967-)                                              |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

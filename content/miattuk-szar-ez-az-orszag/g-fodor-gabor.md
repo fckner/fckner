@@ -14,7 +14,7 @@ tags: [beszélő-fej]
 | Alapadatok                | G. Fodor Gábor (1975-)                                             |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

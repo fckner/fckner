@@ -14,7 +14,7 @@ tags: [főkáder]
 | Alapadatok                | Kövér László (1959-)                                               |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

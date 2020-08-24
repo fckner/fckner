@@ -14,7 +14,7 @@ tags: [beszélő-fej, káder]
 | Alapadatok                | Selmeczi Gabriella (1965-)                                         |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 - Köztársasági elnök (2010-2012)
 - MOB elnök (1989-2010)

@@ -16,7 +16,7 @@ tags: [oligarcha]
 | Alapadatok                | Simicska Lajos                                                                    |
 | Kinek a kije              | [Orbán Viktor](../orban-viktor) iskolatársa, katonatársa és szakkollégiumi társa  |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

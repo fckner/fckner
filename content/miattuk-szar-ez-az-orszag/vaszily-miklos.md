@@ -16,7 +16,7 @@ tags: [főkáder]
 | Alapadatok                | Vaszily Miklós (1973-)                                             |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

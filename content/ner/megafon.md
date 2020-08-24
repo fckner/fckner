@@ -1,7 +1,8 @@
 ---
-title: "Megafon"
+title: "Megafon [Hamarosan]"
 date: 2020-08-16T21:21:48+02:00
-draft: true
+draft: false
+tags: [média, autokrácia]
 ---
 
 ## Feldolgozatlan linkek

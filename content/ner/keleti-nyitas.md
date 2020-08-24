@@ -2,7 +2,7 @@
 title: "Keleti nyitás [Hamarosan]"
 date: 2020-08-09T20:35:24+02:00
 draft: false
-tags: [ner]
+tags: [külpolitika]
 ---
 
 ## Feldolgozatlan linkek

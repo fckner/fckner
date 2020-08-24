@@ -5,18 +5,20 @@ draft: false
 tags: [ner-celeb, beszélő-fej]
 ---
 
-## Röviden
+## Röviden és szubjektíven
 
-Ha [Nagy Feró](../nagy-fero) a nemzet csótánya, akkor Ákos minimum a nemzet fülbemászó-bogara. Ákos kétségtelenül nem tehetségtelen, ha a szórakoztatóiparról van szó, ezen túlmenően viszont egy ostoba, begyöpösödött agyú, kispolgár, akinek mindig van valami elmés hozzáfűznie mindenhez, ezért aztán kérdezik is. Túl sok szót nem vesztegetünk rá, de azért jegyezzük meg, hogy mindig jó helyen áll sorba ha pénzt osztogatnak.
+Ha [Nagy Feró](../nagy-fero) a nemzet csótánya, akkor Ákos minimum a nemzet fülbemászó-bogara. Ákos kétségtelenül nem tehetségtelen ha a zenéről van szó, ezen túlmenően viszont egy ostoba, begyöpösödött agyú kispolgár, akinek mindig mindenhez van valami elmés hozzáfűznie. Túl sok szót nem vesztegetünk rá, de azért jegyezzük meg, hogy mindig jó helyen áll sorba ha pénzt osztogatnak.
 
 NER kapcsolatairól azért sokat elmond, hogy [amikor a Telekom szerződést bontott vele](https://index.hu/kultur/zene/2015/12/16/kiszall_a_telekom_akos_mogul/) [a női emancipációról alkotott XIX. századbeli véleménye miatt](https://hu.wikiquote.org/wiki/Kov%C3%A1cs_%C3%81kos), akkor [Magyarország kormánya három napon belül szerződést bontott a Telekommal](https://hvg.hu/itthon/20151217_A_kormany_minden_szerzodeset_felmondja_a).
+
+Kétsége ne legyen senkinek, Ákos túl fogja élni a NER-t és utána is a világ minden ostobaságát össze fogja hordani vallásról, értékekről és megannyi más dologról, amit fontosnak tart, de amiről amúgy nem sok fogalma van.
 
 ## Legfontosabbak
 
 |                           |                                                                    |
 | :---                      | :----                                                              |
 | Alapadatok                | Kovács Ákos, (1968-)                                               |
-| Kinek a kije              | [Orbán bibós szakkollégiumi társa](../orban-viktor)                |
+| Kinek a kije              |                                                                    |
 
 ## Feldolgozatlan linkek
 

@@ -14,7 +14,7 @@ tags: [álellenzék, politikus]
 | Alapadatok                | Fodor Gábor (1962-)                                                |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

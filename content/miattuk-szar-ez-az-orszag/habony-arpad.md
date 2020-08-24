@@ -14,7 +14,7 @@ tags: [oligarcha, beszélő-fej, főkáder]
 | Alapadatok                | Habony Árpád (1968-)                                               |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

@@ -14,7 +14,7 @@ tags: [főkáder]
 | Alapadatok                | Matolcsy György (1955-)                                            |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei

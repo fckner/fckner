@@ -16,7 +16,7 @@ tags: [főkáder]
 | Alapadatok                | Pintér Sándor (1948-)                                              |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 - Országos rendőrfőkapitány (1991-1996)
 - Belügyminiszter (1998-2020, 2010-2018)

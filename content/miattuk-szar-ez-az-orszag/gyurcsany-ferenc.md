@@ -18,7 +18,7 @@ Az, hogy jelen írás nem megy mélyebbre Gyurcsány sötétebb ügyeibe az csak
 | Alapadatok                | Gyurcsány Ferenc (1961-)                                           |
 | Kinek a kije              | -                                                                  |
 
-### Főbb pozíciói
+## Főbb pozíciói
 
 - Magyarország miniszterelnöke (2004-2009)
 

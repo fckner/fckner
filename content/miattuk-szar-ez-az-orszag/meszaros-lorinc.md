@@ -14,7 +14,7 @@ tags: [oligarcha]
 | Alapadatok                | Mészáros Lőrinc (1966-)                                            |
 | Kinek a kije              |                                                                    |
 
-*Főbb pozíciói:*
+## Főbb pozíciói
 
 
 ## Legfőbb bűnei
