@@ -2,7 +2,7 @@
 title: "Rácz Zsófia"
 date: 2020-08-22T20:59:36+02:00
 draft: false
-tags: [kiskáder, beszelo-fej, politikus]
+tags: [kiskáder, beszélő-fej, politikus]
 ---
 
 ## Röviden és szubjektíven
@@ -32,9 +32,7 @@ Mint említettem, Rácz Zsófia eddig semmilyen maradandó hasznot vagy kárt ne
 
 ## Sztori
 
-- [Rácz Zsófia, az új helyettes államtitkár tökéletes Fidesz-káder](https://vastagbor.atlatszo.hu/2019/12/06/racz-zsofia-az-uj-helyettes-allamtitkar-tokeletes-fidesz-kader/)
-- [Hol bújtatják a 22 éves helyettes államtitkárt?](https://index.hu/belfold/2020/03/03/racz_zsofia_csalad-_es_ifjusagugyert_felelos_allamtitkar_hollet/)
-- [Novák fejjel szaladt a falnak: szerinte nem utólagos törvénymódosítás a lex Rácz Zsófia](https://nepszava.hu/3061822_novak-fejjel-szaladt-a-falnak-szerinte-nem-utolagos-torvenymodositas-a-lex-racz-zsofia)
-- [Rácz Zsófia korábban kifogásolta, hogy az emberek a vágyaik szerint úgy formálják a jogot, mint a gyurmát](https://444.hu/2019/12/05/racz-zsofia-korabban-kifogasolta-hogy-az-emberek-a-vagyaik-szerint-ugy-formaljak-a-jogot-mint-a-gyurmat)
-
-## Feldolgozatlan linkek
+- [Rácz Zsófia, az új helyettes államtitkár tökéletes Fidesz-káder - 2019, atlatszo.hu](https://vastagbor.atlatszo.hu/2019/12/06/racz-zsofia-az-uj-helyettes-allamtitkar-tokeletes-fidesz-kader/)
+- [Novák fejjel szaladt a falnak: szerinte nem utólagos törvénymódosítás a lex Rácz Zsófia - 2019, nepszava.hu](https://nepszava.hu/3061822_novak-fejjel-szaladt-a-falnak-szerinte-nem-utolagos-torvenymodositas-a-lex-racz-zsofia)
+- [Rácz Zsófia korábban kifogásolta, hogy az emberek a vágyaik szerint úgy formálják a jogot, mint a gyurmát - 2019, 444.hu](https://444.hu/2019/12/05/racz-zsofia-korabban-kifogasolta-hogy-az-emberek-a-vagyaik-szerint-ugy-formaljak-a-jogot-mint-a-gyurmat)
+- [Hol bújtatják a 22 éves helyettes államtitkárt? - 2020, index.hu](https://index.hu/belfold/2020/03/03/racz_zsofia_csalad-_es_ifjusagugyert_felelos_allamtitkar_hollet/)

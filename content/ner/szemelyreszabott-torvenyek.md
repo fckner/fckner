@@ -1,32 +1,48 @@
 ---
-title: "Személyreszabott Törvények [Hamarosan]"
+title: "Személyreszabott Törvények"
 date: 2020-08-07T20:27:30+02:00
 draft: false
-tags: [ner, autokrácia]
+tags: [autokrácia, maffiaállam]
 ---
 
-Elfogadva:
+## Röviden
+
+
+
+### Elfogadva
 
 - Lex Szász Károly - 98 százalékos különadó alóli mentesítés
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Szapáry György - nagyköveti poszt korhatára
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Járai Zsigmond - 1,2 millió forintos fizetés
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Borkai Zsolt - polgármesteri poszt
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Tétényi Éva - polgármesteri jogkör elvonás
 - Lex Biszku Béla - felelősségre vonás
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Turul - a XII. kerületben állított szobor ügye
 - Lex Baranyay László - MFB elnök-vezérigazgatói poszt
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Vida Ildikó - APEH elnöki poszt
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Gadó Gábor - GVH alelnök menesztése
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex OTP 1 - adózási kedvezmény
 - Lex Mal Zrt. - állami eintstand
 - Lex Polt Péter 1 - interpellálhatóságának megszüntetése
 - Lex CBA 1 - adómentesítés, monopolhelyzet a versenytársak korlátozásával
 - Lex Domokos László - összeférhetetlensége megszüntetése
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Szalai Annamária - NMHH-elnöki rendeletalkotási joga
 - Lex Mahír - versenytársak korlátozása
 - Lex Polt Péter 2 - kényszernyugdíj alóli mentesség, többletjogok
-- Lex Baka András, Jóri András - mandátum lejárta előtti menesztés
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
+- Lex Baka András Jóri András - mandátum lejárta előtti menesztés
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Töröcskei László - összeférhetetlenségének feloldása
+  - [Lex Biszku, lex Járai, lex Schmitt](https://index.hu/belfold/2012/06/04/lexek/)
 - Lex Esztergom - erőszakos intézmény-államosítás
 - Lex Schmitt Pál 1 - juttatásokra való jogosultság
 - Lex Brad Pitt - fegyvertörvény
@@ -41,7 +57,7 @@ Elfogadva:
 - Lex Continental Zrt. - cigaretta piac monopolizálása
 - Lex Vizoviczki László - nemzetbiztonsági ellenőrzések
 - Lex CBA2 - trafikmutyiban való helyzetbe hozás
-- Lex Éger István - kamaraelnöki tisztség elvételével való fenyegetés
+- [Lex Éger István](https://index.hu/belfold/2012/06/04/lexek/) - kamaraelnöki tisztség elvételével való fenyegetés
 - Lex Fapál László - szolgálati lakások megvonása
 - Lex Mádl Dalma - juttatások
 - Lex Hercegh Anita - Áder János feleségének társadalombiztosítása
@@ -84,7 +100,7 @@ Elfogadva:
   - [Mostantól diploma nélkül is lehetünk helyettes államtitkárok: átment a lex Rácz Zsófia - Népszava Online](https://nepszava.hu/3059964_mostantol-diploma-nelkul-is-lehetunk-helyettes-allamtitkarok-atment-a-lex-racz-zsofia)
   - [Novák fejjel szaladt a falnak: szerinte nem utólagos törvénymódosítás a lex Rácz Zsófia - Népszava Online](https://nepszava.hu/3061822_novak-fejjel-szaladt-a-falnak-szerinte-nem-utolagos-torvenymodositas-a-lex-racz-zsofia)
 
-Előkészítve:
+### Előkészítve
 
 - Lex Heineken - önkényuralmi jelképekkel való piackorlátozás
 - Lex Jordán - egyszerűbb politikai kinevezések a színházak élére

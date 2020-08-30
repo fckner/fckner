@@ -28,49 +28,49 @@ paginate = 500
 [[menu.main]]
 	name = "Főkáderek"
 	post = "<span class='glyphicon glyphicon-tower'></span>"
-	url = "/tags/fokader"
+	url = "/tags/főkáder"
 	weight = 30
 
 [[menu.main]]
 	name = "Beszélő fejek"
 	post = "<span class='glyphicon glyphicon-bishop'></span>"
-	url = "/tags/beszelo-fej"
+	url = "/tags/beszélő-fej"
 	weight = 40
 
 [[menu.main]]
 	name = "Helytartók"
 	post = "<span class='glyphicon glyphicon-knight'></span>"
-	url = "/tags/helytarto"
+	url = "/tags/helytartó"
 	weight = 50
 
 [[menu.main]]
 	name = "Mítoszok"
 	post = "<span class='glyphicon glyphicon-picture'></span>"
-	url = "/tags/mitosz"
+	url = "/tags/mítosz"
 	weight = 60
 
 [[menu.main]]
 	name = "Autokrácia"
 	post = "<span class='glyphicon glyphicon-eye-open'></span>"
-	url = "/tags/autokracia"
+	url = "/tags/autokrácia"
 	weight = 70
 
 [[menu.main]]
 	name = "Kleptokrácia"
 	post = "<span class='glyphicon glyphicon-euro'></span>"
-	url = "/tags/kleptokracia"
+	url = "/tags/kleptokrácia"
 	weight = 80
 
 [[menu.main]]
 	name = "Maffiaállam"
 	post = "<span class='glyphicon glyphicon-piggy-bank'></span>"
-	url = "/tags/maffiaallam"
+	url = "/tags/maffiaállam"
 	weight = 90
 
 [[menu.main]]
 	name = "Aljasságok"
 	post = "<span class='glyphicon glyphicon-screenshot'></span>"
-	url = "/tags/aljassag"
+	url = "/tags/aljasság"
 	weight = 100
 
 [[menu.main]]

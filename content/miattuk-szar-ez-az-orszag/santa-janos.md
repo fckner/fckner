@@ -1,6 +1,6 @@
 ---
 title: "Sánta János"
-date: 2020-08-24T09:09:31+02:00
+date: 2020-08-22T09:09:31+02:00
 draft: false
 tags: [oligarcha]
 ---
@@ -9,7 +9,7 @@ tags: [oligarcha]
 
 id. Sánta János József hódmezővásárhelyi vállalkozó, másodvonalas oligarcha és persze Lázár János közeli ismerőse, a [trafikmutyi](/ner/trafikmutyi) atyja és szerzője. Ennek természetesen a Sánta cége, a Continental lett a legnagyobb nyertese is, mit ad isten.
 
-Ma Sánta a tulajdonosa az Országos Dohányboltellátó Kft.-nek, amelynek 2016-os árbevétele közel 517 milliárd forint volt. Jó oligarchához méltón természetesen a média leuralásába is beszállt a Napi Gazdaság és a Magyar Időkbe révén.
+Ma Sánta a tulajdonosa az Országos Dohányboltellátó Kft.-nek, amelynek 2016-os árbevétele közel 517 milliárd forint volt. Jó oligarchához méltón természetesen a media leuralásába is beszállt a Napi Gazdaság és a Magyar Időkbe révén.
 
 ## Legfontosabbak
 
@@ -21,11 +21,6 @@ Ma Sánta a tulajdonosa az Országos Dohányboltellátó Kft.-nek, amelynek 2016
 ## Legfőbb bűnei
 
 - [A trafikmutyi kiagyalása és lebonyolítása](../../ner/trafikmutyi)
-
-## Kapcsolódó oldalak
-
-- [Lázár János](../miattuk-szar-hely-ez-az-orszag/lazar-janos)
-- [Trafikmutyi](../../ner/trafikmutyi)
 
 ## További linkek
 

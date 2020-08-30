@@ -2,7 +2,7 @@
 title: "Orbán Viktor"
 date: 2020-08-03T23:49:28+02:00
 draft: false
-tags: [fonok]
+tags: [főnök]
 ---
 
 ## Röviden és szubjektíven
@@ -26,11 +26,14 @@ Nélküle valószínűleg ez az oldal sem létezhetne, tulajdonképpen minden eg
 ## Legfőbb bűnei
 
 - Magyarország végleges kettéosztása (Oszd meg és uralkodj)
-- A NER kiépítése (Autokrácia és kleptokrácia)
+- A NER kiépítése (autokrácia és kleptokrácia)
 - Az összes ismert Fidesz-közeli ügyhöz van valamilyen köze.
 
 ## Sztori
 
-- [The beginnings of Fidesz! - Slejm](https://www.youtube.com/watch?v=NxqvnfjxKzQ)
-- [A Párt Farkasa - Fidesz '90-'98 - Slejm](https://www.youtube.com/watch?v=Dfp8IJ99NpQ)
+- [The beginnings of Fidesz! - 2016, Slejm](https://www.youtube.com/watch?v=NxqvnfjxKzQ)
+- [A Párt Farkasa - Fidesz '90-'98 - 2016, Slejm](https://www.youtube.com/watch?v=Dfp8IJ99NpQ)
 
+## További linkek
+
+- [Miért parkol Orbán Volkswagene rendszeresen tilosban az Astoriánál?](https://444.hu/2014/03/20/kiderult-miert-all-meg-ez-elott-a-haz-elott-rendszeresen-orban-autoja/)
