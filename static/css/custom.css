@@ -14,3 +14,9 @@ a, .post-content a {
 a:hover {
 	background-color: yellow;
 }
+
+li {
+	padding: .2em 0;
+	font-family: Roboto, sans-serif;
+	font-size: 1.2em;
+}
