@@ -5,7 +5,7 @@ draft: true
 tags: [főkáder, politikus]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 ## Legfontosabbak
 

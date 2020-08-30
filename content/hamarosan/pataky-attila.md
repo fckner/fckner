@@ -5,7 +5,7 @@ draft: true
 tags: [ner-celeb, beszélő-fej]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 Pataky sikeres rockzenészből vált a NER elsőszámú dáridósává és persze avatatlan UFÓ-szakértővé.
 

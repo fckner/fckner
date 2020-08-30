@@ -5,7 +5,7 @@ draft: true
 tags: [helytartó, főkáder]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 ## Legfontosabbak
 

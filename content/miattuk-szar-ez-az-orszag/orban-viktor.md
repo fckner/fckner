@@ -5,7 +5,7 @@ draft: false
 tags: [főnök]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 A valaha volt fiatal liberális demokratából először középkorú konzervatív, majd koravén autokrata lett. Mára a magyar demokrácia, a klasszikus és modern liberalizmus, az érték alapú társadalom és a valódi kapitalizmus legfőbb ellensége, aki nélkül fontos kérdés nem dőlhet el Magyarországon.
 

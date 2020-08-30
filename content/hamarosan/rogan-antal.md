@@ -5,7 +5,7 @@ draft: true
 tags: [főkáder]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 
 

@@ -5,7 +5,7 @@ draft: true
 tags: [oligarcha]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 
 

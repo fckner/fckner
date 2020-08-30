@@ -5,7 +5,7 @@ draft: true
 tags: [beszélő-fej]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 ## Legfontosabbak
 

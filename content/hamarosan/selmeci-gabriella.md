@@ -5,7 +5,7 @@ draft: true
 tags: [beszélő-fej, káder]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 ## Legfontosabbak
 

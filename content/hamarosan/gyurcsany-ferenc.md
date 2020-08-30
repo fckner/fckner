@@ -5,7 +5,7 @@ draft: true
 tags: [beszélő-fej]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 Gyurcsány Ferenc ([Szanyi Tibor](../szanyi-tibor) mellett) talán az egyetlen személy ezen az oldalon, akiről nem lehet egyértelműen kijelenteni, hogy lefeküdt volna Orbánnak. Valószínűleg egy jóindulatú, de nárcisztikus és hatalomfüggő milliárdos, aki valószínűleg nem egyszer értelmezte tágan a törvényt és az erkölcsöt az első százmilliói megszerzéséig. Sajnos azonban még egy ilyen megengedő leosztásban is igaz az, hogy rengeteg kárt okoz a mai napig is az ellenzéki erőknek a beépített trollseregével.
 

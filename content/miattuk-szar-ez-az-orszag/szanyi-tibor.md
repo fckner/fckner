@@ -5,7 +5,7 @@ draft: false
 tags: [beszélő-fej, álellenzék, politikus]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 Ahogy [Gyurcsány Ferencnek](../gyurcsany-ferenc), úgy Szanyinak is elévülhetetlen érdemei vannak abban, hogy a Fidesz 2/3-al nyerhetett, és hogy ott tart ez az ország, ahol. Ahogy az ex-miniszterelnök, úgy - okkal feltételezhetően - Szanyi is meggyőződéses idióta, és lopásban kanyarban sincs a Fidesz nagyágyúihoz képest.
 

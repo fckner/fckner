@@ -5,7 +5,7 @@ draft: true
 tags: [politikus, beszélő-fej]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 ## Legfontosabbak
 

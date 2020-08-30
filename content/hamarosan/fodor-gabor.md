@@ -5,7 +5,7 @@ draft: true
 tags: [álellenzék, politikus]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 ## Legfontosabbak
 

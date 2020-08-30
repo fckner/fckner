@@ -5,7 +5,7 @@ draft: false
 tags: [ner-celeb, beszélő-fej]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 Ha [Nagy Feró](../nagy-fero) a nemzet csótánya, akkor Ákos minimum a nemzet fülbemászó-bogara. Ákos kétségtelenül nem tehetségtelen zenész, még ha túl is értékelt, de ezen túlmenően viszont egy igazi kispolgár, akinek mindig mindenhez van valami elmés hozzáfűznie.
 

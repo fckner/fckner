@@ -5,7 +5,7 @@ draft: true
 tags: [oligarcha, propaganda]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 
 

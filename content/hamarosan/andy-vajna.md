@@ -5,7 +5,7 @@ draft: true
 tags: [oligarcha, főkáder]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 ## Legfontosabbak
 

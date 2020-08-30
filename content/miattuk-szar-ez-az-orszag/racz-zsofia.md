@@ -5,7 +5,7 @@ draft: false
 tags: [kiskáder, beszélő-fej, politikus]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 Rácz Zsófia egyelőre nem fontos része a gépezetnek, szimplán csak a nyilvánvaló hazugságai és pökhendisége révén érdemelte ki, hogy jelen listában szerepeljen.
 

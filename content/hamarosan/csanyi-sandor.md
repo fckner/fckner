@@ -5,7 +5,7 @@ draft: true
 tags: [oligarcha, maffiaállam]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 Magyarország egyik leggazdagabb és egyik legbefolyásosabb személye.
 

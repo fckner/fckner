@@ -5,7 +5,7 @@ draft: true
 tags: [beszélő-fej, ner-celeb]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
 ## Legfontosabbak
 

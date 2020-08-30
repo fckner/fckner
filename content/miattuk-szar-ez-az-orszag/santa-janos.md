@@ -5,11 +5,11 @@ draft: false
 tags: [oligarcha]
 ---
 
-## Röviden és szubjektíven
+## Röviden
 
-id. Sánta János József hódmezővásárhelyi vállalkozó, másodvonalas oligarcha és persze Lázár János közeli ismerőse, a [trafikmutyi](/ner/trafikmutyi) atyja és szerzője. Ennek természetesen a Sánta cége, a Continental lett a legnagyobb nyertese is, mit ad isten.
+id. Sánta János József hódmezővásárhelyi vállalkozó, másodvonalas oligarcha és persze Lázár János közeli ismerőse, a [trafikmutyi](/ner/trafikmutyi) atyja és szerzője. Ennek mit ad isten pont Sánta cége, a Continental lett a legnagyobb nyertese.
 
-Ma Sánta a tulajdonosa az Országos Dohányboltellátó Kft.-nek, amelynek 2016-os árbevétele közel 517 milliárd forint volt. Jó oligarchához méltón természetesen a media leuralásába is beszállt a Napi Gazdaság és a Magyar Időkbe révén.
+Ma Sánta a tulajdonosa az Országos Dohányboltellátó Kft.-nek, amelynek 2016-os árbevétele közel 517 milliárd forint volt. Jó oligarchához méltón természetesen a média leuralásába is beszállt a Napi Gazdaság és a Magyar Időkbe révén.
 
 ## Legfontosabbak
 
